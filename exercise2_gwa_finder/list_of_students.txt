@@ -1,0 +1,17 @@
+Riddle,1.20
+Ruggie,3.50
+Sylus,1.0
+Toph,2.50
+Katara,3.75
+Aang,2.0
+Zuko,1.75
+Soka,2.75
+Zayne,1.75
+Caleb,2.0
+Rafayel,2.25
+Xavier,1.50
+Sebastian,1.0
+Ciel,1.75
+Malleus,1.25
+Vil,4.0
+Madara,5.0
